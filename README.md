@@ -1,16 +1,42 @@
-## Hi there 👋
+ayan 🧛
+=======
 
-<!--
-**khxayan/khxayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🫠 Who am I?
+------------
+  * A student in **College of Commerce & Economics** at [**Akbar Peerbhoy College**](https://www.apcollege.in/) (2023 ~)
+  * A **developer** *(in developing mode)*
 
-Here are some ideas to get you started:
+☄️ Development Skills
+---------------------
+### Web Frontend
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FAF9F8)
+  ![HTML](https://img.shields.io/badge/HTML-E5532F?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1375BB?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Backend
+  ![Node.js](https://img.shields.io/badge/Node.js-87CF34?style=for-the-badge&logo=Nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-DB234B?style=for-the-badge&logo=NestJS&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-02758F?style=for-the-badge&logo=MySQL&logoColor=white)
+
+### General / Tools / IDEs
+  ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-673B99?style=for-the-badge&logo=VisualStudio&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=Cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFE874?style=for-the-badge&logo=Python&logoColor=white&labelColor=2D6999)
+
+### Past Experience
+  ![C](https://img.shields.io/badge/C-01589C?style=for-the-badge&logo=C&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=Oracle&logoColor=white)
+
+🔗 Links
+--------
+
+  * X (Twitter): [@khxayan](https://twitter.com/khxayan)
+  * Bluesky: <a href="(https://bsky.app/profile/khxayan.bsky.social)">@khxayan.bsky.social</a>
+  * Mastodon: <a href="(https://mastodon.social/@khxayan)">@khxayan@mastodon.social</a>
+
+Abandoned & Deprecated Projects
+-------------------------------
+[@somniLegacy](https://github.com/somniLegacy) is the place where my abandoned or deprecated repositories goes after being archived. Please check it out if interested.
