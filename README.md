@@ -34,6 +34,6 @@ ayan 🧛
 --------
 
   * X (Twitter): [@khxayan](https://twitter.com/khxayan)
-  * Bluesky: <a href="(https://bsky.app/profile/khxayan.bsky.social)">@khxayan.bsky.social</a>
+  * Bluesky: [@khxayan.bsky.social](https://bsky.app/profile/khxayan.bsky.social)
   * Mastodon: <a href="(https://mastodon.social/@khxayan)">@khxayan@mastodon.social</a>
 
