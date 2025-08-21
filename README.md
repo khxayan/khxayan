@@ -37,6 +37,3 @@ ayan 🧛
   * Bluesky: <a href="(https://bsky.app/profile/khxayan.bsky.social)">@khxayan.bsky.social</a>
   * Mastodon: <a href="(https://mastodon.social/@khxayan)">@khxayan@mastodon.social</a>
 
-Abandoned & Deprecated Projects
--------------------------------
-[@somniLegacy](https://github.com/somniLegacy) is the place where my abandoned or deprecated repositories goes after being archived. Please check it out if interested.
