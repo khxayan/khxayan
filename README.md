@@ -3,7 +3,7 @@ ayan 🧛
 
 🫠 Who am I?
 ------------
-  * A student in **College of Commerce & Economics** at [**Akbar Peerbhoy College**](https://www.apcollege.in/) (2023 ~)
+  * A student in **College of Commerce & Economics** at [**Akbar Peerbhoy College**](https://www.apcollege.in/) (2021 ~)
   * A **developer** *(in developing mode)*
 
 ☄️ Development Skills
