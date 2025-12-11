@@ -35,6 +35,5 @@ ayan 🧛
 
   * X (Twitter): [@khxayan](https://twitter.com/khxayan)
   * Bluesky: [@khxayan.bsky.social](https://bsky.app/profile/khxayan.bsky.social)
-  * Mastodon: <a href="(https://mastodon.social/@khxayan)">@khxayan@mastodon.social</a>
-
+  * Mastodon: [@khxayan.bsky.social](https://mastodon.social/@khxayan)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khxayan&label=Profile%20views&color=0e75b6&style=flat" alt="khxayan" height="30"/> </p>
